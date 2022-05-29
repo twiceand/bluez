@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="bluez" targetName="distuninstallcheck" />
+      <config projectName="bluez" targetName="install-pkglibexecPROGRAMS" />
+      <config projectName="bluez" targetName="installcheck" />
+      <config projectName="bluez" targetName="install-cupsPROGRAMS" />
+      <config projectName="bluez" targetName="ctags-am" />
+      <config projectName="bluez" targetName="uninstall-pkglibexecPROGRAMS" />
+      <config projectName="bluez" targetName="install-info-am" />
+      <config projectName="bluez" targetName="clean-udevPROGRAMS" />
+      <config projectName="bluez" targetName="distclean-tags" />
+      <config projectName="bluez" targetName="ps-am" />
+      <config projectName="bluez" targetName="uninstall-am" />
+      <config projectName="bluez" targetName="install-rulesDATA" />
+      <config projectName="bluez" targetName="install-testSCRIPTS" />
+      <config projectName="bluez" targetName="dist-lzip" />
+      <config projectName="bluez" targetName="install-ps" />
+      <config projectName="bluez" targetName="info-am" />
+      <config projectName="bluez" targetName="maintainer-clean-generic" />
+      <config projectName="bluez" targetName="tags-am" />
+      <config projectName="bluez" targetName="check-TESTS" />
+      <config projectName="bluez" targetName="dist-xz" />
+      <config projectName="bluez" targetName="install-dvi-am" />
+      <config projectName="bluez" targetName="tags" />
+      <config projectName="bluez" targetName="html-am" />
+      <config projectName="bluez" targetName="all" />
+      <config projectName="bluez" targetName="dist-shar" />
+      <config projectName="bluez" targetName="missing" />
+      <config projectName="bluez" targetName="stamp-h1" />
+      <config projectName="bluez" targetName="am--fnord" />
+      <config projectName="bluez" targetName="uninstall-systemduserunitDATA" />
+      <config projectName="bluez" targetName="install" />
+      <config projectName="bluez" targetName="clean-libLTLIBRARIES" />
+      <config projectName="bluez" targetName="install-exec-am" />
+      <config projectName="bluez" targetName="install-am" />
+      <config projectName="bluez" targetName="install-html-am" />
+      <config projectName="bluez" targetName="install-systemdsystemunitDATA" />
+      <config projectName="bluez" targetName="TAGS" />
+      <config projectName="bluez" targetName="dist-tarZ" />
+      <config projectName="bluez" targetName="maintainer-clean" />
+      <config projectName="bluez" targetName="mostlyclean" />
+      <config projectName="bluez" targetName="test-driver" />
+      <config projectName="bluez" targetName="depcomp" />
+      <config projectName="bluez" targetName="uninstall-rulesDATA" />
+      <config projectName="bluez" targetName="install-man8" />
+      <config projectName="bluez" targetName="dist-gzip" />
+      <config projectName="bluez" targetName="install-dbussessionbusDATA" />
+      <config projectName="bluez" targetName="CTAGS" />
+      <config projectName="bluez" targetName="install-pkgconfigDATA" />
+      <config projectName="bluez" targetName="dist-bzip2" />
+      <config projectName="bluez" targetName="distclean-hdr" />
+      <config projectName="bluez" targetName="check-am" />
+      <config projectName="bluez" targetName="clean-libtool" />
+      <config projectName="bluez" targetName="uninstall-testSCRIPTS" />
+      <config projectName="bluez" targetName="uninstall-udevPROGRAMS" />
+      <config projectName="bluez" targetName="clean-cscope" />
+      <config projectName="bluez" targetName="uninstall-man8" />
+      <config projectName="bluez" targetName="clean-pkglibexecPROGRAMS" />
+      <config projectName="bluez" targetName="uninstall-man1" />
+      <config projectName="bluez" targetName="install-dbusDATA" />
+      <config projectName="bluez" targetName="install-man1" />
+      <config projectName="bluez" targetName="uninstall-dbusDATA" />
+      <config projectName="bluez" targetName="mostlyclean-am" />
+      <config projectName="bluez" targetName="clean-binPROGRAMS" />
+      <config projectName="bluez" targetName="install-dbussystembusDATA" />
+      <config projectName="bluez" targetName="ChangeLog" />
+      <config projectName="bluez" targetName="dist-zip" />
+      <config projectName="bluez" targetName="install-sh" />
+      <config projectName="bluez" targetName="install-systemduserunitDATA" />
+      <config projectName="bluez" targetName="installcheck-am" />
+      <config projectName="bluez" targetName="TODO" />
+      <config projectName="bluez" targetName="uninstall-dist_zshcompletionDATA" />
+      <config projectName="bluez" targetName="AUTHORS" />
+      <config projectName="bluez" targetName="installdirs" />
+      <config projectName="bluez" targetName="install-udevPROGRAMS" />
+      <config projectName="bluez" targetName="distdir-am" />
+      <config projectName="bluez" targetName="all-am" />
+      <config projectName="bluez" targetName="install-pdf" />
+      <config projectName="bluez" targetName="README" />
+      <config projectName="bluez" targetName="clean-local" />
+      <config projectName="bluez" targetName="install-dist_zshcompletionDATA" />
+      <config projectName="bluez" targetName="install-binPROGRAMS" />
+      <config projectName="bluez" targetName="distclean" />
+      <config projectName="bluez" targetName="mostlyclean-generic" />
+      <config projectName="bluez" targetName="clean-pluginLTLIBRARIES" />
+      <config projectName="bluez" targetName="uninstall-systemdsystemunitDATA" />
+      <config projectName="bluez" targetName="clean-cupsPROGRAMS" />
+      <config projectName="bluez" targetName="am--depfiles" />
+      <config projectName="bluez" targetName="uninstall-dbussystembusDATA" />
+      <config projectName="bluez" targetName="distclean-generic" />
+      <config projectName="bluez" targetName="ctags" />
+      <config projectName="bluez" targetName="install-dvi" />
+      <config projectName="bluez" targetName="maintainer-clean-local" />
+      <config projectName="bluez" targetName="install-ps-am" />
+      <config projectName="bluez" targetName="distclean-compile" />
+      <config projectName="bluez" targetName="Makefile" />
+      <config projectName="bluez" targetName="uninstall" />
+      <config projectName="bluez" targetName="install-libLTLIBRARIES" />
+      <config projectName="bluez" targetName="install-pkgincludeHEADERS" />
+      <config projectName="bluez" targetName="maintainer-clean-am" />
+      <config projectName="bluez" targetName="clean-noinstPROGRAMS" />
+      <config projectName="bluez" targetName="cscope" />
+      <config projectName="bluez" targetName="uninstall-confDATA" />
+      <config projectName="bluez" targetName="clean-am" />
+      <config projectName="bluez" targetName="cscopelist-am" />
+      <config projectName="bluez" targetName="check" />
+      <config projectName="bluez" targetName="install-info" />
+      <config projectName="bluez" targetName="uninstall-pkgconfigDATA" />
+      <config projectName="bluez" targetName="am--refresh" />
+      <config projectName="bluez" targetName="recheck" />
+      <config projectName="bluez" targetName="mostlyclean-compile" />
+      <config projectName="bluez" targetName="uninstall-pluginLTLIBRARIES" />
+      <config projectName="bluez" targetName="install-pluginLTLIBRARIES" />
+      <config projectName="bluez" targetName="pdf-am" />
+      <config projectName="bluez" targetName="clean-generic" />
+      <config projectName="bluez" targetName="install-data-am" />
+      <config projectName="bluez" targetName="uninstall-pkgincludeHEADERS" />
+      <config projectName="bluez" targetName="uninstall-binPROGRAMS" />
+      <config projectName="bluez" targetName="distcheck" />
+      <config projectName="bluez" targetName="ps" />
+      <config projectName="bluez" targetName="uninstall-man" />
+      <config projectName="bluez" targetName="install-stateDATA" />
+      <config projectName="bluez" targetName="distcleancheck" />
+      <config projectName="bluez" targetName="INSTALL" />
+      <config projectName="bluez" targetName="install-confDATA" />
+      <config projectName="bluez" targetName="COPYING" />
+      <config projectName="bluez" targetName="uninstall-stateDATA" />
+      <config projectName="bluez" targetName="clean-noinstLTLIBRARIES" />
+      <config projectName="bluez" targetName="distdir" />
+      <config projectName="bluez" targetName="install-exec" />
+      <config projectName="bluez" targetName="install-data" />
+      <config projectName="bluez" targetName="dvi" />
+      <config projectName="bluez" targetName="install-html" />
+      <config projectName="bluez" targetName="dist" />
+      <config projectName="bluez" targetName="distclean-am" />
+      <config projectName="bluez" targetName="ID" />
+      <config projectName="bluez" targetName="compile" />
+      <config projectName="bluez" targetName="info" />
+      <config projectName="bluez" targetName="install-strip" />
+      <config projectName="bluez" targetName="uninstall-cupsPROGRAMS" />
+      <config projectName="bluez" targetName="am--force-recheck" />
+      <config projectName="bluez" targetName="install-man" />
+      <config projectName="bluez" targetName="html" />
+      <config projectName="bluez" targetName="cscopelist" />
+      <config projectName="bluez" targetName="distclean-libtool" />
+      <config projectName="bluez" targetName="dist-all" />
+      <config projectName="bluez" targetName="mostlyclean-libtool" />
+      <config projectName="bluez" targetName="clean-noinstLIBRARIES" />
+      <config projectName="bluez" targetName="uninstall-libLTLIBRARIES" />
+      <config projectName="bluez" targetName="GTAGS" />
+      <config projectName="bluez" targetName="dvi-am" />
+      <config projectName="bluez" targetName="install-pdf-am" />
+      <config projectName="bluez" targetName="pdf" />
+      <config projectName="bluez" targetName="NEWS" />
+      <config projectName="bluez" targetName="uninstall-dbussessionbusDATA" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01f415d1-f102-4703-a18d-1a12424a4ad2" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/bluez.pc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/mesh/bluetooth-meshd.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/src/bluetoothd.rst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="bluez" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="bluez" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="29qVy7GZ5j3ok7S2sVYOW3tf3x2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/linux/Desktop/bluez"
+  }
+}]]></component>
+  <component name="RunManager" selected="Makefile 应用程序.all">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AUTHORS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="AUTHORS" CONFIG_NAME="AUTHORS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COPYING" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="COPYING" CONFIG_NAME="COPYING" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CTAGS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="CTAGS" CONFIG_NAME="CTAGS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeLog" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="ChangeLog" CONFIG_NAME="ChangeLog" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GTAGS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="GTAGS" CONFIG_NAME="GTAGS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ID" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="ID" CONFIG_NAME="ID" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="INSTALL" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="INSTALL" CONFIG_NAME="INSTALL" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="Makefile" CONFIG_NAME="Makefile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NEWS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="NEWS" CONFIG_NAME="NEWS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="README" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="README" CONFIG_NAME="README" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TAGS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="TAGS" CONFIG_NAME="TAGS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TODO" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="TODO" CONFIG_NAME="TODO" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="all-am" CONFIG_NAME="all-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="am--depfiles" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="am--depfiles" CONFIG_NAME="am--depfiles" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="am--fnord" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="am--fnord" CONFIG_NAME="am--fnord" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="am--force-recheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="am--force-recheck" CONFIG_NAME="am--force-recheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="am--refresh" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="am--refresh" CONFIG_NAME="am--refresh" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check-TESTS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="check-TESTS" CONFIG_NAME="check-TESTS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="check-am" CONFIG_NAME="check-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="check" CONFIG_NAME="check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-am" CONFIG_NAME="clean-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-binPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-binPROGRAMS" CONFIG_NAME="clean-binPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-cscope" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-cscope" CONFIG_NAME="clean-cscope" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-cupsPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-cupsPROGRAMS" CONFIG_NAME="clean-cupsPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-generic" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-generic" CONFIG_NAME="clean-generic" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-libLTLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-libLTLIBRARIES" CONFIG_NAME="clean-libLTLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-libtool" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-libtool" CONFIG_NAME="clean-libtool" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-local" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-local" CONFIG_NAME="clean-local" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-noinstLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-noinstLIBRARIES" CONFIG_NAME="clean-noinstLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-noinstLTLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-noinstLTLIBRARIES" CONFIG_NAME="clean-noinstLTLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-noinstPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-noinstPROGRAMS" CONFIG_NAME="clean-noinstPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-pkglibexecPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-pkglibexecPROGRAMS" CONFIG_NAME="clean-pkglibexecPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-pluginLTLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-pluginLTLIBRARIES" CONFIG_NAME="clean-pluginLTLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean-udevPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="clean-udevPROGRAMS" CONFIG_NAME="clean-udevPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="compile" CONFIG_NAME="compile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cscope" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="cscope" CONFIG_NAME="cscope" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cscopelist-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="cscopelist-am" CONFIG_NAME="cscopelist-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cscopelist" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="cscopelist" CONFIG_NAME="cscopelist" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ctags-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="ctags-am" CONFIG_NAME="ctags-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ctags" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="ctags" CONFIG_NAME="ctags" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="depcomp" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="depcomp" CONFIG_NAME="depcomp" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-all" CONFIG_NAME="dist-all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-bzip2" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-bzip2" CONFIG_NAME="dist-bzip2" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-gzip" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-gzip" CONFIG_NAME="dist-gzip" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-lzip" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-lzip" CONFIG_NAME="dist-lzip" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-shar" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-shar" CONFIG_NAME="dist-shar" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-tarZ" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-tarZ" CONFIG_NAME="dist-tarZ" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-xz" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-xz" CONFIG_NAME="dist-xz" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist-zip" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist-zip" CONFIG_NAME="dist-zip" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dist" CONFIG_NAME="dist" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distcheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distcheck" CONFIG_NAME="distcheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distclean-am" CONFIG_NAME="distclean-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean-compile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distclean-compile" CONFIG_NAME="distclean-compile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean-generic" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distclean-generic" CONFIG_NAME="distclean-generic" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean-hdr" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distclean-hdr" CONFIG_NAME="distclean-hdr" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean-libtool" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distclean-libtool" CONFIG_NAME="distclean-libtool" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean-tags" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distclean-tags" CONFIG_NAME="distclean-tags" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distclean" CONFIG_NAME="distclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distcleancheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distcleancheck" CONFIG_NAME="distcleancheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distdir-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distdir-am" CONFIG_NAME="distdir-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distdir" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distdir" CONFIG_NAME="distdir" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distuninstallcheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="distuninstallcheck" CONFIG_NAME="distuninstallcheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dvi-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dvi-am" CONFIG_NAME="dvi-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dvi" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="dvi" CONFIG_NAME="dvi" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="html-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="html-am" CONFIG_NAME="html-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="html" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="html" CONFIG_NAME="html" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="info-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="info-am" CONFIG_NAME="info-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="info" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="info" CONFIG_NAME="info" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-am" CONFIG_NAME="install-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-binPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-binPROGRAMS" CONFIG_NAME="install-binPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-confDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-confDATA" CONFIG_NAME="install-confDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-cupsPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-cupsPROGRAMS" CONFIG_NAME="install-cupsPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-data-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-data-am" CONFIG_NAME="install-data-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-data" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-data" CONFIG_NAME="install-data" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-dbusDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-dbusDATA" CONFIG_NAME="install-dbusDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-dbussessionbusDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-dbussessionbusDATA" CONFIG_NAME="install-dbussessionbusDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-dbussystembusDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-dbussystembusDATA" CONFIG_NAME="install-dbussystembusDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-dist_zshcompletionDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-dist_zshcompletionDATA" CONFIG_NAME="install-dist_zshcompletionDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-dvi-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-dvi-am" CONFIG_NAME="install-dvi-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-dvi" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-dvi" CONFIG_NAME="install-dvi" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-exec-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-exec-am" CONFIG_NAME="install-exec-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-exec" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-exec" CONFIG_NAME="install-exec" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-html-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-html-am" CONFIG_NAME="install-html-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-html" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-html" CONFIG_NAME="install-html" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-info-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-info-am" CONFIG_NAME="install-info-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-info" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-info" CONFIG_NAME="install-info" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-libLTLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-libLTLIBRARIES" CONFIG_NAME="install-libLTLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-man" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-man" CONFIG_NAME="install-man" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-man1" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-man1" CONFIG_NAME="install-man1" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-man8" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-man8" CONFIG_NAME="install-man8" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pdf-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-pdf-am" CONFIG_NAME="install-pdf-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pdf" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-pdf" CONFIG_NAME="install-pdf" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pkgconfigDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-pkgconfigDATA" CONFIG_NAME="install-pkgconfigDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pkgincludeHEADERS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-pkgincludeHEADERS" CONFIG_NAME="install-pkgincludeHEADERS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pkglibexecPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-pkglibexecPROGRAMS" CONFIG_NAME="install-pkglibexecPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pluginLTLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-pluginLTLIBRARIES" CONFIG_NAME="install-pluginLTLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-ps-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-ps-am" CONFIG_NAME="install-ps-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-ps" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-ps" CONFIG_NAME="install-ps" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-rulesDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-rulesDATA" CONFIG_NAME="install-rulesDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-sh" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-sh" CONFIG_NAME="install-sh" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-stateDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-stateDATA" CONFIG_NAME="install-stateDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-strip" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-strip" CONFIG_NAME="install-strip" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-systemdsystemunitDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-systemdsystemunitDATA" CONFIG_NAME="install-systemdsystemunitDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-systemduserunitDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-systemduserunitDATA" CONFIG_NAME="install-systemduserunitDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-testSCRIPTS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-testSCRIPTS" CONFIG_NAME="install-testSCRIPTS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-udevPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install-udevPROGRAMS" CONFIG_NAME="install-udevPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="install" CONFIG_NAME="install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="installcheck-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="installcheck-am" CONFIG_NAME="installcheck-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="installcheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="installcheck" CONFIG_NAME="installcheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="installdirs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="installdirs" CONFIG_NAME="installdirs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maintainer-clean-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="maintainer-clean-am" CONFIG_NAME="maintainer-clean-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maintainer-clean-generic" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="maintainer-clean-generic" CONFIG_NAME="maintainer-clean-generic" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maintainer-clean-local" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="maintainer-clean-local" CONFIG_NAME="maintainer-clean-local" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maintainer-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="maintainer-clean" CONFIG_NAME="maintainer-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missing" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="missing" CONFIG_NAME="missing" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mostlyclean-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="mostlyclean-am" CONFIG_NAME="mostlyclean-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mostlyclean-compile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="mostlyclean-compile" CONFIG_NAME="mostlyclean-compile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mostlyclean-generic" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="mostlyclean-generic" CONFIG_NAME="mostlyclean-generic" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mostlyclean-libtool" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="mostlyclean-libtool" CONFIG_NAME="mostlyclean-libtool" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mostlyclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="mostlyclean" CONFIG_NAME="mostlyclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pdf-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="pdf-am" CONFIG_NAME="pdf-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pdf" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="pdf" CONFIG_NAME="pdf" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ps-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="ps-am" CONFIG_NAME="ps-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ps" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="ps" CONFIG_NAME="ps" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="recheck" CONFIG_NAME="recheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stamp-h1" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="stamp-h1" CONFIG_NAME="stamp-h1" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tags-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="tags-am" CONFIG_NAME="tags-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tags" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="tags" CONFIG_NAME="tags" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-driver" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="test-driver" CONFIG_NAME="test-driver" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-am" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-am" CONFIG_NAME="uninstall-am" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-binPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-binPROGRAMS" CONFIG_NAME="uninstall-binPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-confDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-confDATA" CONFIG_NAME="uninstall-confDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-cupsPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-cupsPROGRAMS" CONFIG_NAME="uninstall-cupsPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-dbusDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-dbusDATA" CONFIG_NAME="uninstall-dbusDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-dbussessionbusDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-dbussessionbusDATA" CONFIG_NAME="uninstall-dbussessionbusDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-dbussystembusDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-dbussystembusDATA" CONFIG_NAME="uninstall-dbussystembusDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-dist_zshcompletionDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-dist_zshcompletionDATA" CONFIG_NAME="uninstall-dist_zshcompletionDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-libLTLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-libLTLIBRARIES" CONFIG_NAME="uninstall-libLTLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-man" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-man" CONFIG_NAME="uninstall-man" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-man1" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-man1" CONFIG_NAME="uninstall-man1" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-man8" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-man8" CONFIG_NAME="uninstall-man8" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-pkgconfigDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-pkgconfigDATA" CONFIG_NAME="uninstall-pkgconfigDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-pkgincludeHEADERS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-pkgincludeHEADERS" CONFIG_NAME="uninstall-pkgincludeHEADERS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-pkglibexecPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-pkglibexecPROGRAMS" CONFIG_NAME="uninstall-pkglibexecPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-pluginLTLIBRARIES" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-pluginLTLIBRARIES" CONFIG_NAME="uninstall-pluginLTLIBRARIES" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-rulesDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-rulesDATA" CONFIG_NAME="uninstall-rulesDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-stateDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-stateDATA" CONFIG_NAME="uninstall-stateDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-systemdsystemunitDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-systemdsystemunitDATA" CONFIG_NAME="uninstall-systemdsystemunitDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-systemduserunitDATA" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-systemduserunitDATA" CONFIG_NAME="uninstall-systemduserunitDATA" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-testSCRIPTS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-testSCRIPTS" CONFIG_NAME="uninstall-testSCRIPTS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall-udevPROGRAMS" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall-udevPROGRAMS" CONFIG_NAME="uninstall-udevPROGRAMS" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="bluez" TARGET_NAME="uninstall" CONFIG_NAME="uninstall" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile 应用程序.all" />
+      <item itemvalue="Makefile 应用程序.all-am" />
+      <item itemvalue="Makefile 应用程序.am--depfiles" />
+      <item itemvalue="Makefile 应用程序.am--refresh" />
+      <item itemvalue="Makefile 应用程序.check" />
+      <item itemvalue="Makefile 应用程序.check-am" />
+      <item itemvalue="Makefile 应用程序.check-TESTS" />
+      <item itemvalue="Makefile 应用程序.clean-binPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.clean-cscope" />
+      <item itemvalue="Makefile 应用程序.clean-cupsPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.clean-generic" />
+      <item itemvalue="Makefile 应用程序.clean-libLTLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.clean-libtool" />
+      <item itemvalue="Makefile 应用程序.clean-local" />
+      <item itemvalue="Makefile 应用程序.clean-noinstLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.clean-noinstLTLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.clean-noinstPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.clean-pkglibexecPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.clean-pluginLTLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.clean-udevPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.cscope" />
+      <item itemvalue="Makefile 应用程序.cscopelist-am" />
+      <item itemvalue="Makefile 应用程序.CTAGS" />
+      <item itemvalue="Makefile 应用程序.ctags" />
+      <item itemvalue="Makefile 应用程序.ctags-am" />
+      <item itemvalue="Makefile 应用程序.dist" />
+      <item itemvalue="Makefile 应用程序.dist-all" />
+      <item itemvalue="Makefile 应用程序.dist-bzip2" />
+      <item itemvalue="Makefile 应用程序.dist-gzip" />
+      <item itemvalue="Makefile 应用程序.dist-lzip" />
+      <item itemvalue="Makefile 应用程序.dist-shar" />
+      <item itemvalue="Makefile 应用程序.dist-tarZ" />
+      <item itemvalue="Makefile 应用程序.dist-xz" />
+      <item itemvalue="Makefile 应用程序.dist-zip" />
+      <item itemvalue="Makefile 应用程序.distcheck" />
+      <item itemvalue="Makefile 应用程序.distclean" />
+      <item itemvalue="Makefile 应用程序.distclean-compile" />
+      <item itemvalue="Makefile 应用程序.distclean-generic" />
+      <item itemvalue="Makefile 应用程序.distclean-hdr" />
+      <item itemvalue="Makefile 应用程序.distclean-libtool" />
+      <item itemvalue="Makefile 应用程序.distclean-tags" />
+      <item itemvalue="Makefile 应用程序.distcleancheck" />
+      <item itemvalue="Makefile 应用程序.distdir" />
+      <item itemvalue="Makefile 应用程序.distuninstallcheck" />
+      <item itemvalue="Makefile 应用程序.dvi" />
+      <item itemvalue="Makefile 应用程序.dvi-am" />
+      <item itemvalue="Makefile 应用程序.GTAGS" />
+      <item itemvalue="Makefile 应用程序.html" />
+      <item itemvalue="Makefile 应用程序.html-am" />
+      <item itemvalue="Makefile 应用程序.info" />
+      <item itemvalue="Makefile 应用程序.info-am" />
+      <item itemvalue="Makefile 应用程序.install" />
+      <item itemvalue="Makefile 应用程序.install-am" />
+      <item itemvalue="Makefile 应用程序.install-binPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.install-confDATA" />
+      <item itemvalue="Makefile 应用程序.install-cupsPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.install-data" />
+      <item itemvalue="Makefile 应用程序.install-data-am" />
+      <item itemvalue="Makefile 应用程序.install-dbusDATA" />
+      <item itemvalue="Makefile 应用程序.install-dbussessionbusDATA" />
+      <item itemvalue="Makefile 应用程序.install-dbussystembusDATA" />
+      <item itemvalue="Makefile 应用程序.install-dist_zshcompletionDATA" />
+      <item itemvalue="Makefile 应用程序.install-dvi" />
+      <item itemvalue="Makefile 应用程序.install-dvi-am" />
+      <item itemvalue="Makefile 应用程序.install-exec" />
+      <item itemvalue="Makefile 应用程序.install-exec-am" />
+      <item itemvalue="Makefile 应用程序.install-html" />
+      <item itemvalue="Makefile 应用程序.install-html-am" />
+      <item itemvalue="Makefile 应用程序.install-info" />
+      <item itemvalue="Makefile 应用程序.install-info-am" />
+      <item itemvalue="Makefile 应用程序.install-libLTLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.install-man" />
+      <item itemvalue="Makefile 应用程序.install-man1" />
+      <item itemvalue="Makefile 应用程序.install-man8" />
+      <item itemvalue="Makefile 应用程序.install-pdf" />
+      <item itemvalue="Makefile 应用程序.install-pdf-am" />
+      <item itemvalue="Makefile 应用程序.install-pkgconfigDATA" />
+      <item itemvalue="Makefile 应用程序.install-pkgincludeHEADERS" />
+      <item itemvalue="Makefile 应用程序.install-pkglibexecPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.install-pluginLTLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.install-ps" />
+      <item itemvalue="Makefile 应用程序.install-ps-am" />
+      <item itemvalue="Makefile 应用程序.install-rulesDATA" />
+      <item itemvalue="Makefile 应用程序.install-stateDATA" />
+      <item itemvalue="Makefile 应用程序.install-strip" />
+      <item itemvalue="Makefile 应用程序.install-systemdsystemunitDATA" />
+      <item itemvalue="Makefile 应用程序.install-systemduserunitDATA" />
+      <item itemvalue="Makefile 应用程序.install-testSCRIPTS" />
+      <item itemvalue="Makefile 应用程序.install-udevPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.installcheck" />
+      <item itemvalue="Makefile 应用程序.installcheck-am" />
+      <item itemvalue="Makefile 应用程序.installdirs" />
+      <item itemvalue="Makefile 应用程序.maintainer-clean" />
+      <item itemvalue="Makefile 应用程序.maintainer-clean-generic" />
+      <item itemvalue="Makefile 应用程序.maintainer-clean-local" />
+      <item itemvalue="Makefile 应用程序.mostlyclean" />
+      <item itemvalue="Makefile 应用程序.mostlyclean-compile" />
+      <item itemvalue="Makefile 应用程序.mostlyclean-generic" />
+      <item itemvalue="Makefile 应用程序.mostlyclean-libtool" />
+      <item itemvalue="Makefile 应用程序.pdf" />
+      <item itemvalue="Makefile 应用程序.pdf-am" />
+      <item itemvalue="Makefile 应用程序.ps" />
+      <item itemvalue="Makefile 应用程序.ps-am" />
+      <item itemvalue="Makefile 应用程序.recheck" />
+      <item itemvalue="Makefile 应用程序.TAGS" />
+      <item itemvalue="Makefile 应用程序.tags" />
+      <item itemvalue="Makefile 应用程序.tags-am" />
+      <item itemvalue="Makefile 应用程序.uninstall" />
+      <item itemvalue="Makefile 应用程序.uninstall-am" />
+      <item itemvalue="Makefile 应用程序.uninstall-binPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.uninstall-confDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-cupsPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.uninstall-dbusDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-dbussessionbusDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-dbussystembusDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-dist_zshcompletionDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-libLTLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.uninstall-man" />
+      <item itemvalue="Makefile 应用程序.uninstall-man1" />
+      <item itemvalue="Makefile 应用程序.uninstall-man8" />
+      <item itemvalue="Makefile 应用程序.uninstall-pkgconfigDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-pkgincludeHEADERS" />
+      <item itemvalue="Makefile 应用程序.uninstall-pkglibexecPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.uninstall-pluginLTLIBRARIES" />
+      <item itemvalue="Makefile 应用程序.uninstall-rulesDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-stateDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-systemdsystemunitDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-systemduserunitDATA" />
+      <item itemvalue="Makefile 应用程序.uninstall-testSCRIPTS" />
+      <item itemvalue="Makefile 应用程序.uninstall-udevPROGRAMS" />
+      <item itemvalue="Makefile 应用程序.am--fnord" />
+      <item itemvalue="Makefile 应用程序.am--force-recheck" />
+      <item itemvalue="Makefile 应用程序.AUTHORS" />
+      <item itemvalue="Makefile 应用程序.ChangeLog" />
+      <item itemvalue="Makefile 应用程序.clean-am" />
+      <item itemvalue="Makefile 应用程序.compile" />
+      <item itemvalue="Makefile 应用程序.COPYING" />
+      <item itemvalue="Makefile 应用程序.cscopelist" />
+      <item itemvalue="Makefile 应用程序.depcomp" />
+      <item itemvalue="Makefile 应用程序.distclean-am" />
+      <item itemvalue="Makefile 应用程序.distdir-am" />
+      <item itemvalue="Makefile 应用程序.ID" />
+      <item itemvalue="Makefile 应用程序.INSTALL" />
+      <item itemvalue="Makefile 应用程序.install-sh" />
+      <item itemvalue="Makefile 应用程序.maintainer-clean-am" />
+      <item itemvalue="Makefile 应用程序.Makefile" />
+      <item itemvalue="Makefile 应用程序.missing" />
+      <item itemvalue="Makefile 应用程序.mostlyclean-am" />
+      <item itemvalue="Makefile 应用程序.NEWS" />
+      <item itemvalue="Makefile 应用程序.README" />
+      <item itemvalue="Makefile 应用程序.stamp-h1" />
+      <item itemvalue="Makefile 应用程序.test-driver" />
+      <item itemvalue="Makefile 应用程序.TODO" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="01f415d1-f102-4703-a18d-1a12424a4ad2" name="变更" comment="" />
+      <created>1653840854065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653840854065</updated>
+      <workItem from="1653840855919" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
