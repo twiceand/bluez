@@ -291,7 +291,7 @@ static void shell_print_menu(void)
 	}
 
 	print_text(COLOR_HIGHLIGHT, "Menu %s:", data.menu->name);
-	print_text(COLOR_HIGHLIGHT, "Available commands:");
+	print_text(COLOR_HIGHLIGHT, "Available commands in bluez:");
 	print_text(COLOR_HIGHLIGHT, "-------------------");
 
 	if (data.menu == data.main) {
