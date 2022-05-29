@@ -166,12 +166,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f415d1-f102-4703-a18d-1a12424a4ad2" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/lib/bluez.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/mesh/bluetooth-meshd.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/src/bluetoothd.rst" afterDir="false" />
+    <list default="true" id="01f415d1-f102-4703-a18d-1a12424a4ad2" name="变更" comment="add shell executed file of bluez">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,6 +212,9 @@
       </map>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2022" />
@@ -238,7 +237,9 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/linux/Desktop/bluez"
+    "last_opened_file_path": "/home/linux/Desktop/bluez",
+    "nodejs_package_manager_path": "npm",
+    "structure.view.defaults.are.configured": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Makefile 应用程序.all">
@@ -1176,9 +1177,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653840854065</updated>
-      <workItem from="1653840855919" duration="15000" />
+      <workItem from="1653840855919" duration="2278000" />
     </task>
+    <task id="LOCAL-00001" summary="change the shell Menu subtitle">
+      <created>1653842053745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653842053745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add shell executed file of bluez">
+      <created>1653842981047</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653842981047</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1193,5 +1212,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="change the shell Menu subtitle" />
+    <MESSAGE value="add shell executed file of bluez" />
+    <option name="LAST_COMMIT_MESSAGE" value="add shell executed file of bluez" />
   </component>
 </project>
